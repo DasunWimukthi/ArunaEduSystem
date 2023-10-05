@@ -1,6 +1,5 @@
 # ArunaEduSystem
 ArunaEdu
-ArunaEdu is a Java SE application designed to streamline the management of a private education center. Whether you run a tutoring center, language school, or any other educational institution, ArunaEdu can help you efficiently manage student records, course schedules, instructors, and more.
 
 Features
 Student Management: Easily create, update, and search for student profiles. Keep track of their personal information, enrollment status, and academic progress.
